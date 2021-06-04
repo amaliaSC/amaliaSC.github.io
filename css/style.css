@@ -1,0 +1,120 @@
+body{
+    
+    background: rgb(219, 211, 211);
+}
+/*.custom-bg{
+    
+    background-image: url(../img/fond.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:600px;
+}*/
+.bg-dark{
+   
+    background-color: #264463!important;
+}
+.bg-dark2{
+    background-color: #264463;
+    color: white;
+    
+}
+footer{
+    height: 80px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.rouge{
+    border:2px solid red;
+}
+.bleu{
+    border: 3px solid blue;
+}
+.vert{
+    border: 5px solid green;
+}
+
+section{
+    min-height: 500px;
+}
+section h2{
+    margin-top: 80px;
+}
+
+#footer{
+    height: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+    
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+    
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+
+}
+
+/* X-Large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
+
+/* XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
